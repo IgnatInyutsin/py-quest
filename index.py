@@ -153,3 +153,4 @@ while i == False:
                         print(inventory)
                         print(str)
                         i+=1
+#Я ЖЕНя АООАОАО
